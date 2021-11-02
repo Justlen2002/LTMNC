@@ -1,0 +1,13 @@
+templateLogin = 'login/login.html'
+templateSignUp = 'signUp/signUp.html'
+# templateLogin = 'SignInUp/index.html'
+# templateSignUp = 'SignInUp/index.html'
+
+templateHolder = 'holder/index.html'
+templateDetail = 'contestDetail/index.html'
+templateCreate = 'createContest/index.html'
+templateStatus = 'contestStatus/index.html'
+templateParticipant = 'ContestParticipant/index.html'
+templateRegister = 'ContestRegister/index.html'
+templateStart = 'ContestStart/index.html'
+templateContestStanding = 'ContestStanding/index.html'
